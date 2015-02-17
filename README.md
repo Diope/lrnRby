@@ -1,0 +1,1 @@
+Following along with Pragmatic Studio's Ruby Programming. I figured it would be beneficial in my goal of learning Ruby on Rails.
