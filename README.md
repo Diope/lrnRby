@@ -1,1 +1,2 @@
-Following along with Pragmatic Studio's Ruby Programming. I figured it would be beneficial in my goal of learning Ruby on Rails.
+Following a webcast on learning the basics of ruby. <br />
+I feel I should get a solid foundtation before diving into rails further as it would quell many future issues I might have.
